@@ -1,0 +1,14 @@
+.swiper {
+    background: #84e0be;
+    height: 20rem;
+    width: 40rem;
+  }
+  
+  .swiper-wrapper {
+    align-items:start;
+  }
+  .swiper-slide img {
+    width: 70%;
+    max-height: 800px;
+    object-fit: cover;
+  }

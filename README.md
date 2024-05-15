@@ -1,1 +1,1 @@
-MERN Stack registration managment system 
+MERN Stack registration management system 
